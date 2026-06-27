@@ -1,0 +1,12 @@
+:root {
+  --void: #020408;
+  --deep-space: #070D1A;
+  --nebula: #0D1B35;
+  --star-white: #F0F4FF;
+  --pulsar-cyan: #00D4FF;
+  --nova-violet: #7C3AED;
+  --solar-amber: #F59E0B;
+  --red-dwarf: #EF4444;
+  --muted: #4A5568;
+  --font-mono: var(--font-geist-mono), 'JetBrains Mono', monospace;
+}
