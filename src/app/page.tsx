@@ -1,7 +1,9 @@
+import HeroSection from '@/components/sections/HeroSection';
+
 export default function Home() {
   return (
-    <div style={{ color: 'var(--star-white)', padding: '2rem' }}>
-      Phase 0 test page
+    <div style={{ background: 'var(--void)', minHeight: '100vh' }}>
+      <HeroSection />
     </div>
   );
 }
